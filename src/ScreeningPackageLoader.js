@@ -43,7 +43,7 @@ const packages_health_men_under40 = [
     { key: "hs", text: "Health Screening", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=health"},
     { key: "blood", text: "Self Request Tests (Blood, Urine, Swab etc.)", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/blood/"},
     { key: "visa", text: "Visa Medical", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=visa"},
-    { key: "weight_loss", text: "Weight-Loss Injection", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=weight_loss"},
+    { key: "weight_loss", text: "Weight Loss Management", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=weight_loss"},
     { key: "occup", text: "Pre Employment & Occupational Health", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=occupational"},
     { key: "allergy", text: "Allergy Screening", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=allergy", small: false},
     { key: "corp", text: "Corporate Clients", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/corporate/", small: false},
