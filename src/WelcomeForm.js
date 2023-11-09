@@ -291,7 +291,7 @@ export default function WelcomeForm() {
 
         <Paper className={classes.paper}>
           <div className={classes.ByAppointment}>
-            By appointment only All the rest
+            By appointment only
           </div>
 
           <CategoriesFormAppointment />
