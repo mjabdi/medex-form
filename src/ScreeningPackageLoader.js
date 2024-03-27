@@ -36,33 +36,33 @@ const packages_health_men_under40 = [
   ]
 
   export const categories = [
-    { key: "gp", text: "Private Consultation / GP / Doctor", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/gp/"},
-    { key: "std", text: "Sexual Health Clinic", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/std/"},
-    { key: "blood", text: "Self Request Tests (Blood, Urine, Swab etc.)", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/blood/"},
-    { key: "weight_loss", text: "Weight Loss Management", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=weight_loss"},
-    { key: "gynae", text: "Gynae Clinic", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/gynae/"},
-    { key: "hs", text: "Health Screening", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=health"},
-    { key: "visa", text: "Visa Medical", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=visa"},
-    { key: "occup", text: "Pre Employment & Occupational Health", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=occupational"},
-    { key: "allergy", text: "Allergy Screening", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=allergy", small: false},
-    { key: "corp", text: "Corporate Clients", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/corporate/", small: false},
+    { key: "gp", text: "Private Consultation / GP / Doctor", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/gp/"},
+    { key: "std", text: "Sexual Health Clinic", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/std/"},
+    { key: "blood", text: "Self Request Tests (Blood, Urine, Swab etc.)", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/blood/"},
+    { key: "weight_loss", text: "Weight Loss Management", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=weight_loss"},
+    { key: "gynae", text: "Gynae Clinic", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/gynae/"},
+    { key: "hs", text: "Health Screening", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=health"},
+    { key: "visa", text: "Visa Medical", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=visa"},
+    { key: "occup", text: "Pre Employment & Occupational Health", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=occupational"},
+    { key: "allergy", text: "Allergy Screening", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=allergy", small: false},
+    { key: "corp", text: "Corporate Clients", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/corporate/", small: false},
   ]
 
 
   export const categoriesWalkin = [
-    { key: "gp", text: "Private Consultation / GP / Doctor", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/gp/"},
-    { key: "std", text: "Sexual Health Clinic", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/std/"},
-    { key: "blood", text: "Self Request Tests (Blood, Urine, Swab etc.)", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/blood/"},
-    { key: "weight_loss", text: "Weight Loss Management", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=weight_loss"},
+    { key: "gp", text: "Private Consultation / GP / Doctor", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/gp/"},
+    { key: "std", text: "Sexual Health Clinic", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/std/"},
+    { key: "blood", text: "Self Request Tests (Blood, Urine, Swab etc.)", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/blood/"},
+    { key: "weight_loss", text: "Weight Loss Management", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=weight_loss"},
   ]
 
   export const categoriesAppointment = [
-    { key: "gynae", text: "Gynae Clinic", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/gynae/"},
-    { key: "hs", text: "Health Screening", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=health"},
-    { key: "visa", text: "Visa Medical", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=visa"},
-    { key: "occup", text: "Pre Employment & Occupational Health", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=occupational"},
-    { key: "allergy", text: "Allergy Screening", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/screening/?cat=allergy", small: false},
-    { key: "corp", text: "Corporate Clients", link: "https://londonmedicalclinic.co.uk/medicalexpressclinic/book/corporate/", small: false},
+    { key: "gynae", text: "Gynae Clinic", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/gynae/"},
+    { key: "hs", text: "Health Screening", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=health"},
+    { key: "visa", text: "Visa Medical", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=visa"},
+    { key: "occup", text: "Pre Employment & Occupational Health", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=occupational"},
+    { key: "allergy", text: "Allergy Screening", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/screening/?cat=allergy", small: false},
+    { key: "corp", text: "Corporate Clients", link: "https://test.travelpcrtest.com//medicalexpressclinic/book/corporate/", small: false},
   ]
 
 
