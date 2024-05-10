@@ -37,6 +37,7 @@ const packages_health_men_under40 = [
 
   export const categories = [
     { key: "gp", text: "Private Consultation / GP / Doctor", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/gp/"},
+    { key: "paediatrician", text: "Paediatrician", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/paediatrician/"},
     { key: "std", text: "Sexual Health Clinic", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/std/"},
     { key: "blood", text: "Self Request Tests (Blood, Urine, Swab etc.)", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/blood/"},
     { key: "weight_loss", text: "Weight Loss Management", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/screening/?cat=weight_loss"},
@@ -51,6 +52,8 @@ const packages_health_men_under40 = [
 
   export const categoriesWalkin = [
     { key: "gp", text: "Private Consultation / GP / Doctor", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/gp/"},
+    { key: "paediatrician", text: "Paediatrician", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/paediatrician/"},
+    
     { key: "std", text: "Sexual Health Clinic", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/std/"},
     { key: "blood", text: "Self Request Tests (Blood, Urine, Swab etc.)", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/blood/"},
     { key: "weight_loss", text: "Weight Loss Management", link: "https://test.travelpcrtest.com/medicalexpressclinic/book/screening/?cat=weight_loss"},
